@@ -1,0 +1,35 @@
+html, body {
+    
+   
+}
+
+#cover {
+    background: #222 url(https://fanart.tv/fanart/movies/694/moviebackground/the-shining-55eedb38db4fe.jpg) no-repeat;
+    background-size: cover;
+    color: white;
+    height: 900px;
+    text-align: center;
+   
+
+}
+
+.card-body {
+    color: black;
+}
+
+.main {
+    padding: 4rem 0;
+    overflow: ;
+}
+
+.row {
+    padding: 4rem 0;
+    overflow: hidden;
+}
+
+.contact1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
