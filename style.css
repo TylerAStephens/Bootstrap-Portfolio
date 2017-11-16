@@ -1,8 +1,3 @@
-html, body {
-    
-   
-}
-
 #cover {
     background: #222 url(https://fanart.tv/fanart/movies/694/moviebackground/the-shining-55eedb38db4fe.jpg) no-repeat;
     background-size: cover;
@@ -12,24 +7,41 @@ html, body {
    
 
 }
+p {
+    margin-top: 16px;
+    
+ }
 
-.card-body {
-    color: black;
-}
-
-.main {
-    padding: 4rem 0;
-    overflow: ;
-}
-
-.row {
+ #profile {
+    padding: 16px;
+ }
+ .row {
     padding: 4rem 0;
     overflow: hidden;
 }
-
 .contact1 {
     color: white;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
     text-decoration: underline;
 }
+.info{
+    font-size: larger
+}
+.contact1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 7%;
+    background-color: white;
+    color: black;
+    text-align: center;
+ }
+
